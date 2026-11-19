@@ -1,0 +1,14 @@
+
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+python-dotenv
+langchain-text-splitters
+langchain-classic
+pydantic
+requests
+streamlit
+langchain_huggingface
+
