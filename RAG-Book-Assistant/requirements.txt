@@ -1,0 +1,19 @@
+# RAG System + Streamlit UI + LangChain + Local Hugging Face LLM
+# Recommended Python version: 3.12 (best compatibility with ML packages)
+
+# Frontend
+streamlit
+
+# LangChain framework and integrations
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+
+# RAG vector database
+chromadb
+
+# Document loading
+pypdf
+python-docx
